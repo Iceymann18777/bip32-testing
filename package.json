@@ -2,7 +2,7 @@
   "name": "@psf/bip32-utils",
   "version": "1.0.2",
   "description": "A set of utilities for working with BIP32.",
-  "author": "Daniel Cousens",
+  "author": "Adam Khader",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/Permissionless-Software-Foundation/bip32-utils/issues"
   },
-  "homepage": "https://github.com/Permissionless-Software-Foundation/bip32-utils",
+  "homepage": "https://github.com/iceymann18777/bip32-testing/",
   "keywords": [
     "bip32-utils",
     "bip32",
